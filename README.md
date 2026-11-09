@@ -1,3 +1,4 @@
+
 # Solar Power Generation Prediction and Anomaly Detection Dashboard Using Machine Learning
 
 An end-to-end Machine Learning web application designed to predict solar power generation and detect operational anomalies in solar power plants.
@@ -160,4 +161,7 @@ pip install -r requirements.txt
    - *Member 3*: Flask Backend & REST API Development (`backend/`)
    - *Member 4*: Frontend Dashboard, Fetch API & Chart.js Visualizations (`frontend/`)
 2. **Never commit large generated files or virtual environment folders**: The `.gitignore` is already configured to keep your repository clean.
+
+=======
+# solar-power-prediction
 
