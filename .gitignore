@@ -1,0 +1,33 @@
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# IDE and Editor files
+.vscode/
+.idea/
+
+# OS Specific
+.DS_Store
+Thumbs.db
+
+# Keep folder structure in git
+!dataset/raw/.gitkeep
+!dataset/processed/.gitkeep
+!notebooks/.gitkeep
+!models/.gitkeep
+!backend/.gitkeep
+!frontend/.gitkeep
+!reports/.gitkeep
+
